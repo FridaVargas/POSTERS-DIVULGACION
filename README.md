@@ -2,7 +2,7 @@
 
 Me llamo Frida y me encanta la ciencia, pero también los colores, el diseño y las formas de contar las cosas.  
 Creo que comunicar ciencia no solo es explicar —también es invitar a mirar y a conectar.
-Cada póster aquí fue hecho con cuidado, con alegría y con la intención de que aprender también pueda sentirse bonito.
+Cada póster aquí fue hecho con cuidado, con alegría y con la intención de que aprender también pueda ser colorido.
 
 Este repositorio recopila pósters de divulgación elaborados de forma individual en contextos académicos y talleres de formación. Todos los materiales fueron diseñados, y redactados por **Frida Michelle Vargas Bautista**, con el objetivo de comunicar temas de biología, ingeniería de tejidos.
 
