@@ -29,6 +29,7 @@ Este repositorio recopila pósters de divulgación elaborados de forma individua
 <p align="center">
   <img src="https://github.com/user-attachments/assets/63b11c17-5384-4c10-8560-1327f42d565a" alt="Tejido muscular" />
 </p>
+
 > Póster realizado para el taller *Mujeres Jóvenes hacia la Ciencia 2021*.  
 > Explora la influencia del sexo biológico en la respuesta inmune mediante genes del cromosoma X y hormonas sexuales.  
 > Diseñado e ilustrado de forma individual.
@@ -36,7 +37,6 @@ Este repositorio recopila pósters de divulgación elaborados de forma individua
 ---
 
 ## 🎓 Sobre este repositorio
-
 Este espacio funciona como una galería digital de trabajos visuales de divulgación científica.  
 Todos los materiales fueron creados desde cero, integrando ilustración, redacción y selección de fuentes por la autora.  
 Se seguirá actualizando conforme se generen nuevos materiales.
