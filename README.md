@@ -10,14 +10,14 @@ Este repositorio recopila pósters de divulgación elaborados de forma individua
 ## 🧬 Ingeniería de Tejidos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a74c9ba7-f5b4-4e7b-8e6d-bfdca9a0ef81" alt="Ovario bioprotésico" width="600"/>
+  <img src="https://github.com/user-attachments/assets/a74c9ba7-f5b4-4e7b-8e6d-bfdca9a0ef81" alt="Ovario bioprotésico" />
 </p>
 
 > Comparación entre tejido muscular liso, estriado y cardíaco.  
 > Elaborado como actividad de divulgación para la materia *Ingeniería de Tejidos*, bajo la dirección de **Antonio Maximiliano Ortíz Rodríguez** y **Santiago King Placencia**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3e687f3-8dbd-472f-8c82-87ea1476762c" alt="Musculo" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e3e687f3-8dbd-472f-8c82-87ea1476762c" alt="Musculo" />
 </p>
 
 > Resumen visual del estudio de Laronda et al. (2017) sobre ovarios bioimpresos.  
