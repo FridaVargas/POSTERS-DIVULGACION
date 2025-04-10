@@ -10,25 +10,24 @@ Este repositorio recopila pósters de divulgación elaborados de forma individua
 ## 🧬 Ingeniería de Tejidos
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e3e687f3-8dbd-472f-8c82-87ea1476762c" alt="Musculo" width="600"/>
+  <img src="https://github.com/user-attachments/assets/a74c9ba7-f5b4-4e7b-8e6d-bfdca9a0ef81" alt="Ovario bioprotésico" width="600"/>
 </p>
 
 > Comparación entre tejido muscular liso, estriado y cardíaco.  
 > Elaborado como actividad de divulgación para la materia *Ingeniería de Tejidos*, bajo la dirección de **Antonio Maximiliano Ortíz Rodríguez** y **Santiago King Placencia**.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a74c9ba7-f5b4-4e7b-8e6d-bfdca9a0ef81" alt="Ovario bioprotésico" width="600"/>
+  <img src="https://github.com/user-attachments/assets/e3e687f3-8dbd-472f-8c82-87ea1476762c" alt="Musculo" width="600"/>
 </p>
 
 > Resumen visual del estudio de Laronda et al. (2017) sobre ovarios bioimpresos.  
 > Representa los retos y soluciones en el diseño de andamios funcionales.  
-> Elaborado de forma individual para *Ingeniería de Tejidos*.
-
+> Elaborado como actividad de divulgación para la materia *Ingeniería de Tejidos*, bajo la dirección de **Antonio Maximiliano Ortíz Rodríguez** y **Santiago King Placencia**.
 ---
 
 ## 🌸 Ciencia e Inmunología con Perspectiva de Género
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/63b11c17-5384-4c10-8560-1327f42d565a" alt="Tejido muscular" width="600"/>
+  <img src="https://github.com/user-attachments/assets/63b11c17-5384-4c10-8560-1327f42d565a" alt="Tejido muscular" />
 </p>
 > Póster realizado para el taller *Mujeres Jóvenes hacia la Ciencia 2021*.  
 > Explora la influencia del sexo biológico en la respuesta inmune mediante genes del cromosoma X y hormonas sexuales.  
